@@ -1,0 +1,45 @@
+body { 
+		text-align: center;
+}
+
+#page {
+		width: 960px;
+		text-align: left;
+		margin: 10px auto 20px auto;
+		background-color: #0c0c0c;
+}
+
+#sidebar {
+		float: left;
+		width: 200px;
+		border: 1px solid #000;
+}
+
+#content {
+		float: left;
+		width: 600px;
+		border: 1px solid #000;
+		padding: 10px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.messages {
+	background-color: #c0c0c0;
+	color: #fff;
+	padding: 1em;
+}
+
+.success {
+	background-color: #008800;
+	border-color: #005500;
+	padding-left: 1em;
+}
+
+.deleted {
+	background-color: #880000;
+	border-color: #550000;
+	padding-left: 1em;
+}

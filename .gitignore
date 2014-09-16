@@ -1,0 +1,11 @@
+*.pyc
+settings.py
+*.json
+*~
+.Python
+env
+bin
+lib
+include
+.DS_Store
+.pyc
